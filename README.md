@@ -66,23 +66,3 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
 
-### Embed the Secret Message into the Image
-![image](https://github.com/user-attachments/assets/79225ae9-2b35-418d-ae24-f74666bbfac4)
-
-### Delete Original Secret File
-![image](https://github.com/user-attachments/assets/b9113453-d7dc-4966-9363-3bfdd4508cbb)
-
-###  Extract the Hidden Secret from Image
-![image](https://github.com/user-attachments/assets/074bbf4b-62d3-4fd7-8e59-2c11e545589c)
-
-### Verify the Extracted Message
-![image](https://github.com/user-attachments/assets/62e8d489-5d95-4ff8-aa48-dde4ff1505b3)
-
-### Retrieve Information About the Embedded Data
-![image](https://github.com/user-attachments/assets/ff2745b2-8e63-4504-bc67-3c7044237ee7)
-
-### Analyze File Signature
-![image](https://github.com/user-attachments/assets/4a6e6b49-2b8d-4a82-92b0-ebae90f8f998)
-
-## RESULT:
-Hidden data was successfully detected and file signatures were analyzed for irregularities.
